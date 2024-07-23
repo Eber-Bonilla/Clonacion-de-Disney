@@ -1,0 +1,124 @@
+body{
+    background: linear-gradient(180deg, #022842 0%, #003764 40%, #003764 60%, #022842 100%);
+    margin: 0 auto;
+}
+.branded-logo{
+    width: 10%;
+}
+.Contenedor-Maximo{
+    width: 100%;
+}
+.Contenedor-logo{
+    display: flex;
+    justify-content: center;
+}
+.Logo{
+    width: 8%;
+}
+.XDDD{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Contenedor-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: whitesmoke;
+    width: 32%;
+    height: 430px;
+    border-radius: 20px;
+}
+.Mydisney{
+    width: 76%;
+    height: 360px;
+}
+.Mydisney .svg{
+    margin-bottom: -17px;
+}
+.Mydisney div svg{
+    width: 70px;
+}
+.info .paso{
+    margin-bottom: -8px;
+    font-family: Inspire, sans-serif;
+    text-decoration: none;
+    font-size: 10px;
+    margin-top: 20px;
+}
+.info h1{
+    font-size: 17px;
+    font-family: Inspire, sans-serif;
+}
+.info .noo{
+    font-size: 10px;
+    margin-bottom: 20px;
+    font-family: Inspire, sans-serif;
+}
+form input{
+    border: none;
+    width: 90%;
+    padding: 14px;
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-bottom: 15px;
+    background-color: #E9EBF0;
+    border-radius: 4px;
+    font-family: Inspire, sans-serif;
+}
+form button{
+    width: 99%;
+    height: 35px;
+    border-radius: 100px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    border: none !important;
+    margin-bottom: 30px;
+}
+.info p{
+    font-size: 8.5px;
+    overflow-wrap: break-word;
+    font-family: Inspire, sans-serif;
+    gap: 24px;
+    
+}
+.info a{
+    text-decoration: none;
+    overflow-wrap: break-word;
+}
+.logo-parade-logo svg{
+    width: 34px !important;
+}
+.logo-parade-logo .Vamos{
+    width: 25px !important;
+}
+.contendor-final{
+    margin-top: 100px;
+    margin-bottom: -30px;
+    width: 100%;
+    height: 80px;
+    background: white;
+}
+.contendor-final .dd{
+    display: flex;
+    justify-content: center;
+}
+.contendor-final .vv{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    gap: -60px;
+    margin-top: 15px;
+}
+.contendor-final a, p{
+    font-size: 10px;
+    text-decoration: none;
+    color: black;
+}
+.zzz{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
