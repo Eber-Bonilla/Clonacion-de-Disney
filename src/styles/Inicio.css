@@ -10,7 +10,7 @@ body{
     background: rgb(20, 20, 20);
     height: 50px;
     display: flex;
-    z-index: 2;
+    z-index: 3;
     position: sticky;
     top: 0;
     right: 0;
@@ -104,11 +104,6 @@ body{
     height: 100%;
     object-fit: cover;
     z-index: 2 !important;
-  }
-  .swiper-slide:hover {
-    border: white solid 2px;
-    transition: 2s !important;
-    height: 348px !important;
   }
   .swiper-slide .che{
     width: 500px;
