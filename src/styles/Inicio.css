@@ -199,3 +199,15 @@ body{
   background: none;
 }
 /*Fin Empresas*/
+/*Glider 2*/
+.glider-contain{
+  margin-top: 50px !important;
+  width: 94% !important;
+}
+.glider div{
+  background: red;
+}
+.glider-prev, .glider-next{
+  display: flex !important;
+  align-items: center !important;
+}
