@@ -357,9 +357,9 @@ body{
 /* Profile */
 .profile {
   font-family: "Avenir LT Pro", sans-serif;
-  position: fixed;
+  position: relative;
   display: inline-flex;
-  right: 18px;
+  right: -68px;
   top: 24px;
   margin: 0;
   height: 0%;
